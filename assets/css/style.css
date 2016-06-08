@@ -181,6 +181,9 @@ a:focus {
 .mt {
 	margin-top: 60px;
 }
+.container.mt.single-case {
+    margin-top: 130px;
+}
 
 .hline {
 	border-bottom: 2px solid #384452;
